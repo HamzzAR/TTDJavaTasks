@@ -17,6 +17,7 @@ public class Doggos {
 				}
 				continue;
 			}
+			
 
 			endNotation = "th";
 			if (!(j > 10 & j < 21)) {
